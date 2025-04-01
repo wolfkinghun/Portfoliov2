@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Projekt 1",
+    "imageSrc": "projects/image.png",
+    "description": "Az első portfoliom",
+    "skills": ["React"],
+    "demo": "https://wolfkinghun.github.io/portfolio/#/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Projekt 2",
+    "imageSrc": "projects/image2.png",
+    "description": "Egy egszerű kis játék - Hol a piros?",
+    "skills": ["JAVA", "HTML","CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Projekt 3",
+    "imageSrc": "projects/image3.png",
+    "description": "Ezzel az appal kiszámolhatod a bmidet",
+    "skills":  ["JAVA", "HTML","CSS"],
+    "demo": "https://wolfkinghun.github.io/BMI_FN/",
     "source": "https://www.github.com"
   }
 ]

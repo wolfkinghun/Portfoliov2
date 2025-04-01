@@ -5,6 +5,8 @@
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
+  min-height: 500px;
+  /* background: #000; */
 }
 
 .title {
@@ -12,9 +14,11 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  /* background: red; */
 }
 
 .projects {
+  /* background: rebeccapurple; */
   margin-top: 37px;
   display: flex;
   flex-direction: row;
